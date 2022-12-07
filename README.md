@@ -3,6 +3,9 @@
 - 🌱 I’m currently learning Javascript and React.js
 - 💞️ I’m looking to collaborate on projects that improve my skills
 - 📫 How to reach me: sgarciajerez@gmail.com
+- 📶 My website page: www.sgarciajerez.github.io
+- ✅ All my frontend projects in https://github.com/sgarciajerez/sgarciajerez.github.io
+- 💻 All my backend projects in https://github.com/sgarciajerez/backendprojects
 
 <!---
 sgarciajerez/sgarciajerez is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
