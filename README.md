@@ -6,6 +6,7 @@
 - 📶 My website page: www.sgarciajerez.github.io
 - ✅ All my frontend projects in https://github.com/sgarciajerez/sgarciajerez.github.io
 - 💻 All my backend projects in https://github.com/sgarciajerez/backendprojects
+- 🎮 All my game projects in https://github.com/sgarciajerez/videojuegos
 
 <!---
 sgarciajerez/sgarciajerez is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
