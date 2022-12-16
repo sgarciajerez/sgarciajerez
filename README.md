@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @sgarciajerez
 - 👀 I’m interested in Front-End development
-- 🌱 I’m currently learning Javascript and React.js
+- 🌱 I’m currently learning Spring for Java and Angular for JavaScript.
 - 💞️ I’m looking to collaborate on projects that improve my skills
 - 📫 How to reach me: sgarciajerez@gmail.com
 - 📶 [My website page](https://sgarciajerez.github.io/)
